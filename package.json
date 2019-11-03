@@ -1,0 +1,25 @@
+{
+  "name": "hackduke2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcho1260/hackduke2019.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcho1260/hackduke2019/issues"
+  },
+  "homepage": "https://github.com/jcho1260/hackduke2019#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.5.2",
+    "react": "^16.8.0",
+    "react-dom": "^16.11.0"
+  }
+}
